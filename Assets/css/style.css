@@ -111,7 +111,7 @@ flex: 80%;
 border-left: 1px solid black;
 width: 100%;
 height: 600px;
-background-size: fill;
+background-size:contain;
 }
 
 #img1 {
